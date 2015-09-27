@@ -1,0 +1,57 @@
+.margin-top {
+  margin-top: 10px;
+}
+
+.margin-left {
+  margin-left: 10px;
+}
+
+.logo {
+  color: #f29406;
+  font-weight: 800;
+  background-image: linear-gradient(orange,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#logo {
+  font-size: 2em;
+  margin: 0;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+#banner p {
+  font-size: 1em;
+  font-family: Geo, sans-serif;
+}
+
+/*#nav > ul > li > a {
+  font-family: 'Geo', sans-serif;
+  font-size: 20px;
+  color: #f29406;
+}*/
+
+/*.nav-item:hover {
+  background: rgba(0, 0, 0, 0.15);
+  box-shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.025), 1px 1px 0px 0px rgba(255, 255, 255, 0.025);
+}*/
+
+.about.image {
+  width: 40%;
+  text-align: left;
+  display: inline-block;
+  float: left;
+  margin-right: 10px;
+}
+
+.image:before {
+  background: none;
+}
+
+div.image.daughters-container {
+  margin-bottom: 5px;
+}
+
+#daughters {
+  width: 180px;
+}
