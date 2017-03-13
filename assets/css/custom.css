@@ -55,3 +55,12 @@ div.image.daughters-container {
 #daughters {
   width: 180px;
 }
+
+#image-anniversary {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 0;
+  padding-bottom: 50px;
+  float: none;
+}
